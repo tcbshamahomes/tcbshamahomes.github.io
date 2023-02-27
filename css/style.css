@@ -438,3 +438,11 @@
     padding-right: 0;
     border-right: none;
 }
+
+.btn-to-call {
+    position: fixed;
+    display: none;
+    right: 45px;
+    bottom: 45px;
+    z-index: 99;
+}
